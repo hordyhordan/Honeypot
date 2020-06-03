@@ -13,8 +13,12 @@
 
 
 ## Issues Encountered
+* Fortunatley I did not run into very many issues, but the small issues i did run into were:
+ * When logging onto the MHN Admin make sure that you type the external address of the mhn-admin into the address bar to get to the login page of MHN Admin. Type in the username and password that were setup in Milestone 2, for the Superuser email and password.
 ## Data Collected
 ![HoneypotAttacks](https://user-images.githubusercontent.com/52509352/83580964-5991f500-a4f2-11ea-8960-fa8b90e562af.png)
 
 ![HoneypotSensors](https://user-images.githubusercontent.com/52509352/83580976-63b3f380-a4f2-11ea-8099-d5d925b09e7d.png)
+
+* There were a total of 1,611 attacks that hit all three of my honey pots.
 
